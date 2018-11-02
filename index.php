@@ -5,7 +5,7 @@
   <link rel="icon" type="image/png" href="/assets/img/favicon.ico">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-  <title>TrackerBot</title>
+  <title>Tracking</title>
 
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -135,15 +135,22 @@
         <div class="starter-template">
           <h1>Set up your seller account</h1>
           <p class="lead">
-            Add an  Amazon account so that we can check your orders.
+            Add an eBay or  Amazon account so that we can check your orders.
             <br> You can add more accounts later.
           </p>
         </div>
       </div>
     </div>
-    <div class="row">
-      <div class="col-md-4"></div>
-      <div class="col-md-8">
+    
+    <div class="col-md-6">
+    <div class="starter-template">
+    <div class="seller-logo">
+        <img src="/img/ebay.jpg" alt="">
+        </div>
+        <a href="ebay.html"><button type="button" class="btn btn-lg btn-primary">Add eBay Seller Account </button></a>
+        </div>
+        </div>
+      <div class="col-md-6">
         <div class="starter-template">
           <div class="seller-logo">
             <img src="/img/amazon.png" alt="" style="margin-top: 42%">
